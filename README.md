@@ -4,6 +4,27 @@ A Flutter chatbot app that uses Google Dialogflow to detect user intent and repl
 
 ---
 
+## Download APK
+
+<p align="left">
+  <a href="https://github.com/Yashsukhadiya1/flutter_bot/raw/main/apk/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android"/>
+  </a>
+</p>
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/ss/ss1.jpeg" width="220"/>
+  <img src="assets/ss/ss2.png" width="500"/>
+  <img src="assets/ss/ss3.png" width="500"/>
+  
+</p>
+
+---
+
 ## Why It Only Works on Chrome (Not on Phone)
 
 This is the most important thing to understand about this project.
